@@ -7,7 +7,7 @@ In this project, I set up a fully functional Apache Web Server to host multiple 
 ## Virtual Host Setup for Multiple Websites
 ## Backup Automation using rsync & cron jobs
 ## Linux Command Line
-# Steps i Take:
+# Steps:
 ## Step 1: Accessing the Server
 The first step was to access the remote server using SSH (Secure Shell). I received the server's IP address and login credentials from the system administrator (or cloud provider). After logging in through my terminal, I had full control over the server to begin my setup.
 
