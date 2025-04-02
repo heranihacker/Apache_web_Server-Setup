@@ -2,11 +2,11 @@
 ## Overview of my project:
 In this project, I set up a fully functional Apache Web Server to host multiple websites. Additionally, I secured the server with SSL encryption (HTTPS) using Let’s Encrypt and automated website backups using rsync and cron jobs. This project helped me understand server administration, security practices, and automation for maintaining web servers.
 ## Skills  i Used:
-#Apache Web Server Configuration, 
-#SSL Installation with Let’s Encrypt,
-#Virtual Host Setup for Multiple Websites,
-#Backup Automation using rsync & cron jobs,
-#Linux Command Line
+## Apache Web Server Configuration 
+## SSL Installation with Let’s Encrypt
+## Virtual Host Setup for Multiple Websites
+## Backup Automation using rsync & cron jobs
+## Linux Command Line
 # Steps i Take:
 ## Step 1: Accessing the Server
 The first step was to access the remote server using SSH (Secure Shell). I received the server's IP address and login credentials from the system administrator (or cloud provider). After logging in through my terminal, I had full control over the server to begin my setup.
